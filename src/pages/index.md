@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: dddd Is A www Hero wwwww
+    title: dddd wwww A www Hero wwwww
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
